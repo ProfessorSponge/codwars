@@ -1,2 +1,2 @@
-item = 0;
-print(item);
+item = 0
+print(item)
